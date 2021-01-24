@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: zlib-acknowledgement
+
+*
+
+!*/
+
+!.gitignore
+!.gitattributes
+
+!README.md
+
+!pi4b-build.bash
+
+!pi4b.c
